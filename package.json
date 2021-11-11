@@ -26,6 +26,7 @@
     "yamljs": "^0.3.0"
   },
   "dependencies": {
+    "gitlab-runner": "0.0.10",
     "vuepress-plugin-comment": "^0.7.3"
   }
 }
